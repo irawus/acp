@@ -1,0 +1,6 @@
+{
+  "name": "Analisis CP",
+  "description": "Aplikasi asisten guru untuk memetakan Capaian Pembelajaran (CP) dan menyusun Tujuan Pembelajaran (TP) secara otomatis berdasarkan Keputusan Kepala BKPDM No. 020 Tahun 2026, serta mengunduhnya ke format Microsoft Word (.doc).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
